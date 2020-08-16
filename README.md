@@ -1,7 +1,7 @@
 # Data Visualization React
 A data visualization application from .csv files.
-Tech stack used : Reactjs, Chartjs , material-ui
 
+Tech stack used : Reactjs, Chartjs , material-ui
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
