@@ -3,6 +3,8 @@ A data visualization application from .csv files.
 
 Tech stack used : Reactjs, Chartjs , material-ui
 
+![Image of project](https://github.com/RitikPandey1/Data-Visualization-React/blob/master/public/image.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
